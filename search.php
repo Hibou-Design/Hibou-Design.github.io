@@ -7,11 +7,11 @@
 <meta name="viewport" content="width=960">
 <style>body{-webkit-text-size-adjust:none}@font-face{font-family:"Lato";src:url('css/Lato-Black.woff2') format('woff2'),url('css/Lato-Black.woff') format('woff');font-weight:900}@font-face{font-family:"Lato";src:url('css/Lato-Bold.woff2') format('woff2'),url('css/Lato-Bold.woff') format('woff');font-weight:700}@font-face{font-family:"Lato";src:url('css/Lato-Regular.woff2') format('woff2'),url('css/Lato-Regular.woff') format('woff');font-weight:400}@font-face{font-family:"EB Garamond";src:url('css/EBGaramond-Regular.woff2') format('woff2'),url('css/EBGaramond-Regular.woff') format('woff');font-weight:400}body>div{font-size:0}p, span,h1,h2,h3,h4,h5,h6{margin:0;word-spacing:normal;word-wrap:break-word;-ms-word-wrap:break-word;pointer-events:auto}sup{font-size:inherit;vertical-align:baseline;position:relative;top:-0.4em}sub{font-size:inherit;vertical-align:baseline;position:relative;top:0.4em}ul{display:block;word-spacing:normal;word-wrap:break-word;list-style-type:none;padding:0;margin:0;-moz-padding-start:0;-khtml-padding-start:0;-webkit-padding-start:0;-o-padding-start:0;-padding-start:0;-webkit-margin-before:0;-webkit-margin-after:0}li{display:block}li p{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none}form{display:inline-block}a{text-decoration:inherit;color:inherit;-webkit-tap-highlight-color:rgba(0,0,0,0)}textarea{resize:none}.shm-l{float:left;clear:left}.shm-r{float:right;clear:right}.whitespacefix{word-spacing:-1px}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{font-size:0;margin:0}audio,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:0 0;outline:0}b,strong{font-weight:700}dfn{font-style:italic}h1,h2,h3,h4,h5,h6{font-size:1em;line-height:1;margin:0 0}img{border:0}svg:not(:root){overflow:hidden}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type=button],input[type=submit]{-webkit-appearance:button;cursor:pointer;box-sizing:border-box;white-space:normal}input[type=password],input[type=text],textarea{-webkit-appearance:none;appearance:none;box-sizing:border-box}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal;border-radius:0}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}textarea{overflow:auto;box-sizing:border-box;border-color:#ddd}optgroup{font-weight:700}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}:-webkit-full-screen-ancestor:not(iframe){-webkit-clip-path:initial!important}
 html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }.menu-content{cursor:pointer;position:relative}li{-webkit-tap-highlight-color:rgba(0,0,0,0)}
-#b{background-color:#fff}.ps55{position:relative;margin-top:25px}.v24{display:block;*display:block;zoom:1;vertical-align:top}.s92{pointer-events:none;min-width:960px;width:960px;margin-left:auto;margin-right:auto}.s93{width:951px;margin-left:-1px}.v25{display:inline-block;*display:inline;zoom:1;vertical-align:top}.ps56{position:relative;margin-left:1px;margin-top:0}.s94{min-width:950px;width:950px;min-height:56px}.c72{z-index:1;pointer-events:auto}.ps57{position:relative;margin-left:0;margin-top:0}.c73{pointer-events:none}.ps58{position:relative;margin-left:0;margin-top:7px}.s95{min-width:43px;width:43px;min-height:43px;height:43px}.c74{z-index:3;pointer-events:auto}.a5{display:block}.i12{position:absolute;left:0;width:43px;height:43px;top:0;border:0}.v26{display:inline-block;*display:inline;zoom:1;vertical-align:top;overflow:hidden}.ps59{position:relative;margin-left:14px;margin-top:0}.s96{min-width:284px;width:284px;min-height:56px;height:56px}.c75{z-index:4;pointer-events:auto}.p10{padding-top:0;text-indent:0;padding-bottom:0;padding-right:0;text-align:left}.f19{font-family:Lato;font-size:32px;font-weight:900;font-style:normal;text-decoration:none;text-transform:none;color:#000;background-color:initial;line-height:54px;letter-spacing:normal;text-shadow:none}.v27{display:inline-block;*display:inline;zoom:1;vertical-align:top;overflow:visible}.ps60{position:relative;margin-left:223px;margin-top:14px}.s97{min-width:386px;width:386px;min-height:29px;height:29px}.c76{z-index:2;pointer-events:auto}.v28{display:inline-block;*display:inline-block;zoom:1;vertical-align:top}.m5{padding:0px 0px 0px 0px}.ml5{outline:0}.s98{min-width:84px;width:84px;min-height:29px;height:29px}.mcv5{display:inline-block}.s99{min-width:84px;width:84px;min-height:29px}.c77{pointer-events:none;border:0;background-color:#fff}.ps61{position:relative;margin-left:0;margin-top:4px}.s100{min-width:84px;width:84px;min-height:21px;height:21px}.c78{pointer-events:auto}.p11{padding-top:0;text-indent:0;padding-bottom:0;padding-right:0;text-align:center}.f20{font-family:"Arial Unicode MS", sans-serif;font-size:14px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:#000;background-color:initial;line-height:19px;letter-spacing:normal;text-shadow:none}.s101{min-width:113px;width:113px;min-height:29px;height:29px}.s102{min-width:113px;width:113px;min-height:29px}.s103{min-width:113px;width:113px;min-height:21px;height:21px}.s104{min-width:99px;width:99px;min-height:29px;height:29px}.s105{min-width:99px;width:99px;min-height:29px}.s106{min-width:99px;width:99px;min-height:21px;height:21px}.ps62{position:relative;margin-left:91px;margin-top:76px}.s107{min-width:780px;width:780px;min-height:1217px}.c79{z-index:5;border:0;background-color:#f6f6f6}.ps63{position:relative;margin-left:0;margin-top:8px}.s108{min-width:780px;width:780px;min-height:113px}.ps64{position:relative;margin-left:8px;margin-top:0}.s109{min-width:752px;width:752px;min-height:20px;height:20px}.f21{font-family:Lato;font-size:15px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:#000;background-color:initial;line-height:18px;letter-spacing:normal;text-shadow:none}.ps65{position:relative;margin-left:8px;margin-top:11px}.s110{min-width:742px;width:742px;min-height:82px;height:82px}.f22{font-family:"EB Garamond";font-size:15px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:#000;background-color:initial;line-height:19px;letter-spacing:normal;text-shadow:none}.menu-device{background-color:rgb(0,0,0);display:none}</style>
-<link as="style" onload="this.onload=null;this.rel='stylesheet'" rel="preload" href="css/site.20200417170644.css">
-<noscript><link rel="stylesheet" href="css/site.20200417170644.css"></noscript>
+#b{background-color:#fff}.ps56{position:relative;margin-top:25px}.v24{display:block;*display:block;zoom:1;vertical-align:top}.s81{pointer-events:none;min-width:960px;width:960px;margin-left:auto;margin-right:auto}.s82{width:871px;margin-left:-1px}.v25{display:inline-block;*display:inline;zoom:1;vertical-align:top}.ps57{position:relative;margin-left:1px;margin-top:0}.s83{min-width:858px;width:858px;min-height:56px}.c73{z-index:1;pointer-events:auto}.ps58{position:relative;margin-left:0;margin-top:0}.c74{pointer-events:none}.ps59{position:relative;margin-left:0;margin-top:7px}.s84{min-width:43px;width:43px;min-height:43px;height:43px}.c75{z-index:3;pointer-events:auto}.a6{display:block}.i14{position:absolute;left:0;width:43px;height:43px;top:0;border:0}.v26{display:inline-block;*display:inline;zoom:1;vertical-align:top;overflow:hidden}.ps60{position:relative;margin-left:15px;margin-top:0}.s85{min-width:287px;width:287px;min-height:56px;height:56px}.c76{z-index:4;pointer-events:auto}.p10{padding-top:0;text-indent:0;padding-bottom:0;padding-right:0;text-align:left}.f19{font-family:Lato;font-size:32px;font-weight:900;font-style:normal;text-decoration:none;text-transform:none;color:#000;background-color:initial;line-height:54px;letter-spacing:normal;text-shadow:none}.v27{display:inline-block;*display:inline;zoom:1;vertical-align:top;overflow:visible}.ps61{position:relative;margin-left:225px;margin-top:14px}.s86{min-width:288px;width:288px;min-height:29px;height:29px}.c77{z-index:2;pointer-events:auto}.v28{display:inline-block;*display:inline-block;zoom:1;vertical-align:top}.m5{padding:0px 0px 0px 0px}.ml5{outline:0}.s87{min-width:85px;width:85px;min-height:29px;height:29px}.mcv5{display:inline-block}.s88{min-width:85px;width:85px;min-height:29px}.c78{pointer-events:none;border:0;background-color:#fff}.ps62{position:relative;margin-left:0;margin-top:4px}.s89{min-width:85px;width:85px;min-height:21px;height:21px}.c79{pointer-events:auto}.p11{padding-top:0;text-indent:0;padding-bottom:0;padding-right:0;text-align:center}.f20{font-family:"Arial Unicode MS", sans-serif;font-size:14px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:#000;background-color:initial;line-height:19px;letter-spacing:normal;text-shadow:none}.s90{min-width:114px;width:114px;min-height:29px;height:29px}.s91{min-width:114px;width:114px;min-height:29px}.s92{min-width:114px;width:114px;min-height:21px;height:21px}.ps63{position:relative;margin-left:91px;margin-top:76px}.s93{min-width:780px;width:780px;min-height:1217px}.c80{z-index:5;border:0;background-color:#f6f6f6}.ps64{position:relative;margin-left:0;margin-top:8px}.s94{min-width:780px;width:780px;min-height:113px}.ps65{position:relative;margin-left:8px;margin-top:0}.s95{min-width:752px;width:752px;min-height:20px;height:20px}.f21{font-family:Lato;font-size:15px;font-weight:700;font-style:normal;text-decoration:none;text-transform:none;color:#000;background-color:initial;line-height:18px;letter-spacing:normal;text-shadow:none}.ps66{position:relative;margin-left:8px;margin-top:11px}.s96{min-width:742px;width:742px;min-height:82px;height:82px}.f22{font-family:"EB Garamond";font-size:15px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:#000;background-color:initial;line-height:19px;letter-spacing:normal;text-shadow:none}.menu-device{background-color:rgb(0,0,0);display:none}</style>
+<link as="style" onload="this.onload=null;this.rel='stylesheet'" rel="preload" href="css/site.20200417181018.css">
+<noscript><link rel="stylesheet" href="css/site.20200417181018.css"></noscript>
 <!--[if lte IE 7]>
-<link rel="stylesheet" href="css/site.20200417170644-lteIE7.css" type="text/css">
+<link rel="stylesheet" href="css/site.20200417181018-lteIE7.css" type="text/css">
 <![endif]-->
 <script>!function(t){var e=!1;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){}if(!e)for(var n=t.document.getElementsByTagName("link"),a=0;a<n.length;a++){var o=n[a];"preload"===o.rel&&"style"===o.getAttribute("as")&&function(t){function e(){if(!t.getAttribute("data-l")){t.setAttribute("data-l",!0),t.addEventListener?t.removeEventListener("load",e):t.attachEvent&&t.detachEvent("onload",e),t.setAttribute("onload",null),t.media="all";var n=window.location.hash;n.length>1&&setTimeout(function(){var t=document.querySelectorAll('[name="'+n.slice(1)+'"]')[0],e=0;if(t.offsetParent)do{e+=t.offsetTop}while(t=t.offsetParent);window.scrollTo(0,e)},100)}}t.addEventListener?t.addEventListener("load",e):t.attachEvent&&t.attachEvent("onload",e),setTimeout(function(){t.rel="stylesheet",t.media="nl x"}),setTimeout(e,3e3)}(o)}}(this);
 </script>
@@ -86,39 +86,36 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
     }
 ?>
 
-<div class="ps55 v24 s92">
-<div class="s93">
-<div class="v25 ps56 s94 c72">
-<div class="v25 ps57 s94 c73">
-<div class="v25 ps58 s95 c74">
-<a href="#" class="a5"><img src="http://q8x0fpivh.bkt.clouddn.com/hibou_logo.png" alt="" class="i12"></a>
+<div class="ps56 v24 s81">
+<div class="s82">
+<div class="v25 ps57 s83 c73">
+<div class="v25 ps58 s83 c74">
+<div class="v25 ps59 s84 c75">
+<a href="#" class="a6"><img src="http://q8x0fpivh.bkt.clouddn.com/hibou_logo.png" alt="" class="i14"></a>
 </div>
-<div class="v26 ps59 s96 c75">
+<div class="v26 ps60 s85 c76">
 <p class="p10 f19"><a href="./">HIBOU&nbsp;&nbsp;DESIGN</a></p>
 </div>
-<div class="v27 ps60 s97 c76">
-<ul class="menu-dropdown v28 ps57 s97 m5" id="m1">
-<li class="v25 ps57 s98 mit5">
-<a href="./" class="ml5"><div class="menu-content mcv5"><div class="v25 ps57 s99 c77"><div class="v26 ps61 s100 c78"><p class="p11 f20">&#x7ec3;&#x4e60;</p></div></div></div></a>
+<div class="v27 ps61 s86 c77">
+<ul class="menu-dropdown v28 ps58 s86 m5" id="m1">
+<li class="v25 ps58 s87 mit5">
+<a href="./" class="ml5"><div class="menu-content mcv5"><div class="v25 ps58 s88 c78"><div class="v26 ps62 s89 c79"><p class="p11 f20">&#x7ec3;&#x4e60;</p></div></div></div></a>
 </li>
-<li class="v25 ps56 s101 mit5">
-<a href="wan-zheng-xiang-mu.html" class="ml5"><div class="menu-content mcv5"><div class="v25 ps57 s102 c77"><div class="v26 ps61 s103 c78"><p class="p11 f20">&#x5b8c;&#x6574;&#x9879;&#x76ee;</p></div></div></div></a>
+<li class="v25 ps57 s90 mit5">
+<a href="wan-zheng-xiang-mu.html" class="ml5"><div class="menu-content mcv5"><div class="v25 ps58 s91 c78"><div class="v26 ps62 s92 c79"><p class="p11 f20">&#x5b8c;&#x6574;&#x9879;&#x76ee;</p></div></div></div></a>
 </li>
-<li class="v25 ps56 s98 mit5">
-<a href="lu-li.html" class="ml5"><div class="menu-content mcv5"><div class="v25 ps57 s99 c77"><div class="v26 ps61 s100 c78"><p class="p11 f20">&#x5c65;&#x5386;</p></div></div></div></a>
-</li>
-<li class="v25 ps56 s104 mit5">
-<a href="guan-yu-wo.html" class="ml5"><div class="menu-content mcv5"><div class="v25 ps57 s105 c77"><div class="v26 ps61 s106 c78"><p class="p11 f20">&#x5173;&#x4e8e;&#x6211;</p></div></div></div></a>
+<li class="v25 ps57 s87 mit5">
+<a href="lu-li.html" class="ml5"><div class="menu-content mcv5"><div class="v25 ps58 s88 c78"><div class="v26 ps62 s89 c79"><p class="p11 f20">&#x5c65;&#x5386;</p></div></div></div></a>
 </li>
 </ul>
 </div>
 </div>
 </div>
-<div class="v25 ps62 s107 c79">
+<div class="v25 ps63 s93 c80">
 <?php
 
     if(count($searchResults) == 0) {
-        $result = '<div class="v25 ps63 s108 c78"><div class="v26 ps64 s109 c80"><p class="p10 f21">{title}</p></div><div class="v26 ps65 s110 c80"><p class="p10 f22">{text}</p></div></div>';
+        $result = '<div class="v25 ps64 s94 c79"><div class="v26 ps65 s95 c81"><p class="p10 f21">{title}</p></div><div class="v26 ps66 s96 c81"><p class="p10 f22">{text}</p></div></div>';
         $result = str_replace('{title}', htmlentities('无搜索结果'), $result);
         $result = str_replace('{text}', '', $result);
         echo $result;
@@ -128,7 +125,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
         $hlPre = '<b>';
         $hlPost = '</b>';
         foreach($searchResults as $searchResult) {
-            $result = '<div class="v25 ps63 s108 c78"><div class="v26 ps64 s109 c80"><p class="p10 f21">{title}</p></div><div class="v26 ps65 s110 c80"><p class="p10 f22">{text}</p></div></div>';
+            $result = '<div class="v25 ps64 s94 c79"><div class="v26 ps65 s95 c81"><p class="p10 f21">{title}</p></div><div class="v26 ps66 s96 c81"><p class="p10 f22">{text}</p></div></div>';
             $result = str_replace('{title}', '<a href="' . $searchResult['link'] . '">' . $searchResult['title'] . '</a>', $result);
             $text = $searchResult['text'];
             if(strlen($hlPre)) {
@@ -142,11 +139,11 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 ?>
 
 </div>
-<div class="v ps52 s89 c35">
-<div class="ps51">
+<div class="v ps53 s78 c36">
+<div class="ps52">
 <?php
 
-    $control = '<div class="v ps8 s90 c63" style="display:none"><a href="#" class="f18 btn v23 s91">&lt;&lt;</a></div>';
+    $control = '<div class="v ps9 s79 c64" style="display:none"><a href="#" class="f18 btn v23 s80">&lt;&lt;</a></div>';
     if($page > 1) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . ($page - 1);
         $control = str_replace('style="visibility:hidden"', '', $control);
@@ -159,7 +156,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c36" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c37" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 1 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -179,7 +176,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c37" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c38" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 2 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -199,7 +196,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c46" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c47" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 3 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -219,7 +216,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c64" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c65" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 4 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -239,7 +236,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c38" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c39" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 5 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -259,7 +256,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c13" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c14" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 6 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -279,7 +276,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c14" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c15" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 7 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -299,7 +296,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c65" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c66" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 8 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -319,7 +316,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c66" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c67" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 9 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -339,7 +336,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c16" style="display:none"><a href="#" class="f18 btn v23 s91">{page_num}</a></div>';
+    $control = '<div class="v ps54 s79 c17" style="display:none"><a href="#" class="f18 btn v23 s80">{page_num}</a></div>';
     $buttonPage = $start_page + 10 - 1;
     if($buttonPage <= $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . $buttonPage;
@@ -359,7 +356,7 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 <?php
 
-    $control = '<div class="v ps53 s90 c67" style="display:none"><a href="#" class="f18 btn v23 s91">&gt;&gt;</a></div>';
+    $control = '<div class="v ps54 s79 c68" style="display:none"><a href="#" class="f18 btn v23 s80">&gt;&gt;</a></div>';
     if($page < $end_page) {
         $url = strtok($_SERVER['REQUEST_URI'],'?') . '?search=' . $searchFor . '&page=' . ($page + 1);
         $control = str_replace('style="visibility:hidden"', '', $control);
@@ -372,46 +369,46 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 
 </div>
 </div>
-<div class="v ps54 s5 c68">
-<div class="v ps7 s6 c7">
-<div class="v2 ps8 s7 c3">
+<div class="v ps55 s6 c4">
+<div class="v ps8 s7 c8">
+<div class="v2 ps9 s8 c69">
 <p class="p"><span class="f"><a href="">Instagram</a></span></p>
 </div>
-<div class="v2 ps9 s8 c">
+<div class="v2 ps10 s9 c">
 <p class="p"><span class="f"><a href="">Behance</a></span></p>
 </div>
-<div class="v2 ps9 s8 c2">
+<div class="v2 ps10 s9 c2">
 <p class="p"><span class="f"><a href="">Dribbble</a></span></p>
 </div>
-<div class="v2 ps9 s8 c5">
+<div class="v2 ps10 s9 c6">
 <p class="p"><span class="f"><a href="">Pinterest</a></span></p>
 </div>
-<div class="v2 ps9 s8 c6">
+<div class="v2 ps10 s9 c3">
 <p class="p"><span class="f"><a href="">Facebook</a></span></p>
 </div>
 </div>
-<div class="v2 ps10 s9 c69">
+<div class="v2 ps11 s10 c70">
 <p class="p f2">Try this search, it might work! <span class="f3">&#x1f601;</span></p>
 </div>
-<div class="v ps11 s10 c70">
-<form method="GET" action="search.php" class="v ps8 s10">
-<div class="v ps8 s10 c7">
-<div class="v ps8 s11 c15">
+<div class="v ps12 s11 c71">
+<form method="GET" action="search.php" class="v ps9 s11">
+<div class="v ps9 s11 c8">
+<div class="v ps9 s12 c16">
 <input type="text" name="search" required class="input">
 </div>
-<div class="v ps12 s12 c15">
-<input type="submit" value="&#x641c;&#x7d22;" name="" class="js13 s13 submit">
+<div class="v ps13 s13 c16">
+<input type="submit" value="&#x641c;&#x7d22;" name="" class="js16 s14 submit">
 </div>
 </div>
 </form>
 </div>
-<div class="v2 ps13 s14 c71">
+<div class="v2 ps14 s15 c72">
 <p class="p f4">&COPY; 2018 Hibou. All rights reserved.</p>
 </div>
 </div>
 </div>
 </div>
-<script>!function(){var s=["js/jquery.js","js/jqueryui.js","js/h5validate.js","js/menu.js","js/menu-dropdown-animations.min.js","js/menu-dropdown.20200417170644.js","js/search.20200417170644.js"],n={},j=0,e=function(e){var o=new XMLHttpRequest;o.open("GET",s[e],!0),o.onload=function(){if(n[e]=o.responseText,7==++j)for(var t in s){var i=document.createElement("script");i.textContent=n[t],document.body.appendChild(i)}},o.send()};for(var o in s)e(o)}();
+<script>!function(){var s=["js/jquery.js","js/jqueryui.js","js/h5validate.js","js/menu.js","js/menu-dropdown-animations.min.js","js/menu-dropdown.20200417181018.js","js/search.20200417181018.js"],n={},j=0,e=function(e){var o=new XMLHttpRequest;o.open("GET",s[e],!0),o.onload=function(){if(n[e]=o.responseText,7==++j)for(var t in s){var i=document.createElement("script");i.textContent=n[t],document.body.appendChild(i)}},o.send()};for(var o in s)e(o)}();
 </script>
 <script type="text/javascript">
 var ver=RegExp(/Mozilla\/5\.0 \(Linux; .; Android ([\d.]+)/).exec(navigator.userAgent);if(ver&&parseFloat(ver[1])<5){document.getElementsByTagName('body')[0].className+=' whitespacefix';}
