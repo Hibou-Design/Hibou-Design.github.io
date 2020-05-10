@@ -138,6 +138,41 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 </div>
 </div>
 </div>
+<script language="JavaScript"> 
+<!-- 
+
+if (window.Event) 
+document.captureEvents(Event.MOUSEUP); 
+
+function nocontextmenu() 
+{ 
+event.cancelBubble = true 
+event.returnValue = false; 
+
+return false; 
+} 
+
+function norightclick(e) 
+{ 
+if (window.Event) 
+{ 
+if (e.which == 2 || e.which == 3) 
+return false; 
+} 
+else 
+if (event.button == 2 || event.button == 3) 
+{ 
+event.cancelBubble = true 
+event.returnValue = false; 
+return false; 
+} 
+
+} 
+
+document.oncontextmenu = nocontextmenu; // for IE5+ 
+document.onmousedown = norightclick; // for all others 
+//--> 
+</script>
 <script>!function(){var s=["js/jquery.js","js/jqueryui.js","js/woolite.js","js/h5validate.js","js/menu.js","js/menu-dropdown-animations.min.js","js/menu-dropdown.20200510191957.js","js/unveil.js","js/lian-xi.20200510191957.js"],n={},j=0,e=function(e){var o=new XMLHttpRequest;o.open("GET",s[e],!0),o.onload=function(){if(n[e]=o.responseText,9==++j)for(var t in s){var i=document.createElement("script");i.textContent=n[t],document.body.appendChild(i)}},o.send()};for(var o in s)e(o)}();
 </script>
 <script type="text/javascript">
