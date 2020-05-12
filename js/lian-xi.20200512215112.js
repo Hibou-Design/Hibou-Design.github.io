@@ -10,7 +10,7 @@ $('.js13').unveil(50);
 $('.js14').unveil(50);
 $('.js17').unveil(50);
 $('.js18').unveil(50);
-$('.s67').Stickyfill();
+$('.s68').Stickyfill();
 $('.js10').unveil(50);
 $('.js11').unveil(50);
 $('.js15').unveil(50);
