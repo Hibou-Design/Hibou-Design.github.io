@@ -233,5 +233,13 @@ html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 <script type="text/javascript">
 var ver=RegExp(/Mozilla\/5\.0 \(Linux; .; Android ([\d.]+)/).exec(navigator.userAgent);if(ver&&parseFloat(ver[1])<5){document.getElementsByTagName('body')[0].className+=' whitespacefix';}
 </script>
+<SCRIPT LANGUAGE=javascript> 
+function click() {alert('禁止左键复制！') } 
+function click1() {if (event.button==2) {alert('禁止右键点击~！') }} 
+function CtrlKeyDown(){if (event.ctrlKey) {alert('非法拷贝将损害您的系统！') }} 
+document.οnkeydοwn=CtrlKeyDown; 
+document.onselectstart=click; 
+document.οnmοusedοwn=click1; 
+</SCRIPT> 
 </body>
 </html>
