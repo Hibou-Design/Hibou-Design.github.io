@@ -5,13 +5,12 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 $(document).ready(function() {
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 $('form').h5Validate();initMenu($('#m1')[0]);
-initMenu($('#m2')[0]);
 $('.js14').unveil(50);
 $('.js15').unveil(50);
 $('.js16').unveil(50);
 $('.js19').unveil(50);
 $('.js20').unveil(50);
-$('.s86').Stickyfill();
+$('.s76').Stickyfill();
 $('.js12').unveil(50);
 $('.js13').unveil(50);
 $('.js17').unveil(50);
