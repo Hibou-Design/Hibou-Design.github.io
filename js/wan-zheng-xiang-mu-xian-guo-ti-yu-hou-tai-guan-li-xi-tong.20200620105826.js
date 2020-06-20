@@ -6,6 +6,6 @@ $(document).ready(function() {
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 $('form').h5Validate();initMenu($('#m1')[0]);
 initMenu($('#m2')[0]);
-$('.s228').Stickyfill();
+$('.s340').Stickyfill();
 
 });
