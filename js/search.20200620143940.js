@@ -5,17 +5,6 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 $(document).ready(function() {
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 $('form').h5Validate();initMenu($('#m1')[0]);
-$('.s226').Stickyfill();
-$('.js32').unveil(50);
-$('.js33').unveil(50);
-$('.js34').unveil(50);
-$('.js35').unveil(50);
-var wl = new woolite();
-wl.init();
-wl.addAnimation($('.js32')[0], "0.60s", "0.10s", 1, 100);
-wl.addAnimation($('.js33')[0], "0.60s", "0.10s", 1, 100);
-wl.addAnimation($('.js34')[0], "0.60s", "0.10s", 1, 100);
-wl.addAnimation($('.js35')[0], "0.60s", "0.10s", 1, 100);
-wl.start();
+$('.s329').Stickyfill();
 
 });
