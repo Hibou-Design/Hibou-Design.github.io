@@ -5,17 +5,22 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 $(document).ready(function() {
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 $('form').h5Validate();initMenu($('#m1')[0]);
-$('.s230').Stickyfill();
-$('.js35').unveil(50);
-$('.js36').unveil(50);
-$('.js37').unveil(50);
-$('.js38').unveil(50);
+$('.js24').unveil(50);
+$('.js25').unveil(50);
+$('.js26').unveil(50);
+$('.js27').unveil(50);
+$('.js28').unveil(50);
+$('.js29').unveil(50);
+$('.s117').Stickyfill();
 var wl = new woolite();
 wl.init();
-wl.addAnimation($('.js35')[0], "0.60s", "0.10s", 1, 100);
-wl.addAnimation($('.js36')[0], "0.60s", "0.10s", 1, 100);
-wl.addAnimation($('.js37')[0], "0.60s", "0.10s", 1, 100);
-wl.addAnimation($('.js38')[0], "0.60s", "0.10s", 1, 100);
+wl.addAnimation($('.js23')[0], "0.60s", "0.10s", 1, 100);
+wl.addAnimation($('.js24')[0], "0.60s", "0.10s", 1, 100);
+wl.addAnimation($('.js25')[0], "0.60s", "0.10s", 1, 100);
+wl.addAnimation($('.js26')[0], "0.60s", "0.10s", 1, 100);
+wl.addAnimation($('.js27')[0], "0.60s", "0.10s", 1, 100);
+wl.addAnimation($('.js28')[0], "0.60s", "0.10s", 1, 100);
+wl.addAnimation($('.js29')[0], "0.60s", "0.10s", 1, 100);
 wl.start();
 
 });
